@@ -1,0 +1,15 @@
+{
+  "name": "typescript-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator application using TypeScript.",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "ts-node calculator.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "ts-node": "^10.9.1"
+  },
+  "type": "module"
+}
